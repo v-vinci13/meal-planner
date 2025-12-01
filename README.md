@@ -49,6 +49,7 @@ FINAL JSON OUTPUT
 
 
 
+
 Tech Stack
 Python 3.13
 
@@ -56,7 +57,6 @@ Google ADK
 
 Gemini 2.5 Flash
 
-FastAPI (optional)
 
 JSON-based inter-agent communication
 
