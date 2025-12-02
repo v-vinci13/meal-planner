@@ -11,3 +11,4 @@ wheels/
 .venv
 .env
 meal_planner/.env
+uv.lock
